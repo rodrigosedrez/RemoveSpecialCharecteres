@@ -1,0 +1,14 @@
+C:\PROJECTS\ajuste de arquivos\ajuste de arquivos\bin\Debug\net10.0\ajuste de arquivos.exe
+C:\PROJECTS\ajuste de arquivos\ajuste de arquivos\bin\Debug\net10.0\ajuste de arquivos.deps.json
+C:\PROJECTS\ajuste de arquivos\ajuste de arquivos\bin\Debug\net10.0\ajuste de arquivos.runtimeconfig.json
+C:\PROJECTS\ajuste de arquivos\ajuste de arquivos\bin\Debug\net10.0\ajuste de arquivos.dll
+C:\PROJECTS\ajuste de arquivos\ajuste de arquivos\bin\Debug\net10.0\ajuste de arquivos.pdb
+C:\PROJECTS\ajuste de arquivos\ajuste de arquivos\obj\Debug\net10.0\ajuste de arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECTS\ajuste de arquivos\ajuste de arquivos\obj\Debug\net10.0\ajuste de arquivos.AssemblyInfoInputs.cache
+C:\PROJECTS\ajuste de arquivos\ajuste de arquivos\obj\Debug\net10.0\ajuste de arquivos.AssemblyInfo.cs
+C:\PROJECTS\ajuste de arquivos\ajuste de arquivos\obj\Debug\net10.0\ajuste de arquivos.csproj.CoreCompileInputs.cache
+C:\PROJECTS\ajuste de arquivos\ajuste de arquivos\obj\Debug\net10.0\ajuste de arquivos.dll
+C:\PROJECTS\ajuste de arquivos\ajuste de arquivos\obj\Debug\net10.0\refint\ajuste de arquivos.dll
+C:\PROJECTS\ajuste de arquivos\ajuste de arquivos\obj\Debug\net10.0\ajuste de arquivos.pdb
+C:\PROJECTS\ajuste de arquivos\ajuste de arquivos\obj\Debug\net10.0\ajuste de arquivos.genruntimeconfig.cache
+C:\PROJECTS\ajuste de arquivos\ajuste de arquivos\obj\Debug\net10.0\ref\ajuste de arquivos.dll
